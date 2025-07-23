@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhumi Aggarwal
 
-🎓 First-year B.Tech CSE student at IPU  
+🎓 Second-year B.Tech CST student at IPU  
 💻 Passionate about backend development using Java  
 🌱 Currently learning: DSA and Java OOPs  
 🔭 Building projects to strengthen my core logic and backend skills  
@@ -8,13 +8,13 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![OOPs](https://img.shields.io/badge/OOPs-Concepts-blue.svg?style=flat)
-![DSA](https://img.shields.io/badge/DSA-Practicing-green.svg?style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
 
 ---
 
@@ -24,7 +24,6 @@
 |--------|------------|-------------|
 | [💳 Bill Generator App](https://github.com/BhumiAggarwal/Bill-Generator-App) | Java | Console app to generate a bill with extras like cheese and toppings |
 | [🍫 Chocorus](https://github.com/BhumiAggarwal/Chocorus) | HTML, CSS, JS, Java | A simple chocolate website with both frontend and backend logic |
-| [📚 Pattern Printing Practice](https://github.com/BhumiAggarwal/Java-Pattern-Programs) | Java | Collection of pattern problems solved during DSA practice |
 
 ---
 
@@ -35,6 +34,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumiAggarwal&layout=compact&theme=radical)
 
 ---
+
+## 📊 GitHub Stats
+
+![Bhumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumiAggarwal&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumiAggarwal&layout=compact&theme=tokyonight)
+
 
 ## 📫 Let's Connect
 
